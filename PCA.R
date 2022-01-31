@@ -1,0 +1,1 @@
+house<- read_csv("C:/Users/haile/OneDrive - Texas Lutheran University/Desktop/GitProjectsTLU/VizIntro1/BostonHousing.csv")
